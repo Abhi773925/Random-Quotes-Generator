@@ -42,6 +42,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize the README according to your project's specific details and requirements!
